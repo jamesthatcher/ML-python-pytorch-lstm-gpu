@@ -1,0 +1,11 @@
+ 
+[
+   {
+      "Repo":"ML-python-pytorch-lstm-gpu-service",
+      "Tail":"-service"
+   },
+   {
+      "Repo":"ML-python-pytorch-lstm-gpu-training",
+      "Tail":"-training"
+   }
+]
